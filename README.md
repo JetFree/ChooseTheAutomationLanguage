@@ -11,7 +11,7 @@
 
 
 
-## It is welcome to add new automation templates here. 
+### It is welcome to add new automation templates here. 
 
 Before sending request to add new templates please verify that you met next conditions:
  - Implement at least 1 UI test for [www.google.com](www.google.com)
