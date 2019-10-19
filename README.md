@@ -28,4 +28,4 @@ Before sending request to add new templates please verify that you met next cond
 ### All improves in frameworks can be implemented by Pull Requests
 
 
-Done together. Thank you
+Doing together. Thank you
