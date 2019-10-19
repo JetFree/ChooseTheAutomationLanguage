@@ -26,3 +26,6 @@ Before sending request to add new templates please verify that you met next cond
  * instructions how to run a tests
  
 ### All improves in frameworks can be implemented by Pull Requests
+
+
+Done together. Thank you
