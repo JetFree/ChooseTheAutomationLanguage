@@ -6,7 +6,7 @@
 - ## [Java](https://github.com/JetFree/JavaAutomation)
 - ## [C#](https://github.com/JetFree/CSharpAutomation)
 - ## [Python](https://github.com/JetFree/PythonAutomation)
-- ## JavaScript (not ready yet)
+- ## JavaScript (Empty yet)
 
 
 
